@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Protocol>
+    <name>Fins</name>
+    <ID>2</ID>
+    <Func>read</Func>
+    <Area>
+        <Areaname>DM</Areaname>
+        <Areastart>10</Areastart>
+        <length>1</length>
+    </Area>
+    <Cricle>500ms</Cricle>
+    <Data>1</Data>
+    <COM>
+        <COMIP>127.0.0.1</COMIP>
+        <COMPORT>9600</COMPORT>
+    </COM>
+</Protocol>

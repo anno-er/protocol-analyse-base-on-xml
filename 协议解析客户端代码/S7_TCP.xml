@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Protocol>
+    <name>S7_TCP</name>
+    <ID>1</ID>
+    <Func>read</Func>
+    <Area>
+        <Areaname>Q</Areaname>
+        <Areastart>10</Areastart>
+        <length>1</length>
+    </Area>
+    <Cricle>500ms</Cricle>
+    <Data>1</Data>
+    <COM>
+        <COMIP>127.0.0.1</COMIP>
+        <COMPORT>5010</COMPORT>
+    </COM>
+</Protocol>
